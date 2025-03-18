@@ -64,7 +64,6 @@ I'm a passionate software engineer with expertise in full-stack development. I e
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   
   <!-- Security -->
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security" />
