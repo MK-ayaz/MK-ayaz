@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Muhammad Ayaz</h1>
   <p><strong>Senior React Native Developer | Mobile App Developer | Founder of Momin Studio</strong></p>
-  <p>Building digital products that feel calm, fast, and credible.</p>
+  <p>Building digital products that feel calm, fast, and worth trusting.</p>
 </div>
 
 <div align="center">
@@ -17,6 +17,9 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ayaz99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MK-ayaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mominkhanstudio12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -88,17 +91,20 @@ I enjoy turning ideas into real products, especially when they solve everyday pr
 ### ScanX Pro
 Enterprise-grade scanning engine with GS1 parsing, batch processing, and ML-powered barcode detection.
 
-### Resume Builder
-A practical resume creation tool with ATS-friendly templates, live preview, and export support.
-
 ### DSA Explorer Hub
-An interactive learning platform for algorithms and data structures with visual explanations.
+Interactive learning platform for algorithms and data structures with visual explanations.
 
-### TokMate: Media Downloader
-A cross-platform mobile app for downloading and organizing media with background download support.
+### Cymusic
+React Native music app focused on a clean listening experience and smooth mobile interactions.
 
-### Bazaar: E-Commerce Platform
-React Native commerce solution with real-time inventory, payments, and recommendations.
+### drawnix
+Open-source whiteboard tool with mind maps, flowcharts, and freehand creation.
+
+### React-native-ai_chat_app
+AI chat experience built in React Native with a focus on modern mobile UX.
+
+### rn-expo-node-boilerplate-mobile
+A practical mobile starter foundation for React Native, Expo, and Node.js workflows.
 
 ## Experience Snapshot
 
@@ -110,6 +116,13 @@ Delivered custom mobile apps for international clients with a focus on performan
 
 ### Frontend Developer, TechSpace
 Built responsive interfaces, integrated APIs, and contributed to polished product experiences.
+
+## GitHub Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MK-ayaz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-ayaz&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
 
 ## Beyond Code
 
@@ -125,6 +138,7 @@ If you are building something meaningful, I would be glad to connect.
 
 - Portfolio: [muhammad-ayaz-portfolio.vercel.app](https://muhammad-ayaz-portfolio.vercel.app/)
 - LinkedIn: [muhammad-ayaz99](https://www.linkedin.com/in/muhammad-ayaz99/)
+- GitHub: [MK-ayaz](https://github.com/MK-ayaz)
 - Email: [mominkhanstudio12@gmail.com](mailto:mominkhanstudio12@gmail.com)
 
 <div align="center">
