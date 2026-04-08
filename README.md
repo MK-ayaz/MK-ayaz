@@ -1,19 +1,22 @@
 <div align="center">
   <h1>Hi, I'm Muhammad Ayaz</h1>
   <p><strong>Senior React Native Developer | Mobile App Developer | Founder of Momin Studio</strong></p>
-  <p>Building digital products that feel calm, fast, and worth trusting.</p>
+  <p><em>Building digital products that feel calm, fast, and worth trusting.</em></p>
+  <p>Available for select freelance work and product collaborations.</p>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Native-Mobile%20First-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-Modern%20Web-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-Strong%20Typing-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Expo-Production%20Apps-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=for-the-badge" alt="Open to Collaboration" />
   <img src="https://img.shields.io/badge/Momin%20Studio-Building%20Products-111827?style=for-the-badge" alt="Momin Studio" />
 </div>
 
 <div align="center">
   <a href="https://muhammad-ayaz-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ayaz99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,6 +46,8 @@
   </picture>
 </div>
 
+---
+
 ## About Me
 
 I am a Computer Science graduate and a product-focused developer who works across mobile and web.
@@ -51,6 +56,15 @@ My focus is simple: build software that feels easy to trust. I care about though
 
 I enjoy turning ideas into real products, especially when they solve everyday problems with less friction and more clarity.
 
+What usually defines my work:
+
+- Product thinking before implementation
+- Strong mobile UX and reliable delivery
+- Clean code that is easy to extend later
+- A calm, professional finish that users can feel
+
+---
+
 ## What I Focus On
 
 - Mobile-first apps with React Native and Expo
@@ -58,6 +72,15 @@ I enjoy turning ideas into real products, especially when they solve everyday pr
 - Clean backend integration with Node.js, NestJS, Express, and REST APIs
 - Performance, maintainability, and product quality
 - Clear communication and disciplined delivery
+
+## How I Work
+
+- I like simple systems that scale well
+- I prefer shipping in small, reliable steps
+- I care about the last 10 percent that most people skip
+- I value product quality as much as feature delivery
+
+---
 
 ## Current Direction
 
@@ -88,6 +111,8 @@ I enjoy turning ideas into real products, especially when they solve everyday pr
 
 ## Featured Projects
 
+Selected from my public GitHub work:
+
 ### ScanX Pro
 Enterprise-grade scanning engine with GS1 parsing, batch processing, and ML-powered barcode detection.
 
@@ -106,6 +131,8 @@ AI chat experience built in React Native with a focus on modern mobile UX.
 ### rn-expo-node-boilerplate-mobile
 A practical mobile starter foundation for React Native, Expo, and Node.js workflows.
 
+---
+
 ## Experience Snapshot
 
 ### Founder & Lead Developer, Momin Studio
@@ -117,12 +144,16 @@ Delivered custom mobile apps for international clients with a focus on performan
 ### Frontend Developer, TechSpace
 Built responsive interfaces, integrated APIs, and contributed to polished product experiences.
 
+---
+
 ## GitHub Pulse
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MK-ayaz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-ayaz&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
+
+---
 
 ## Beyond Code
 
@@ -131,6 +162,8 @@ I like software that feels human.
 The best products are not just functional. They are reassuring. They help people move with confidence, and they make complicated things feel simple.
 
 That is the standard I try to bring into every project.
+
+---
 
 ## Connect & Collaborate
 
